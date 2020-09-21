@@ -50,6 +50,7 @@ public class SqlSelect extends SqlCall {
   SqlNode fetch;
   SqlNodeList hints;
 
+
   //~ Constructors -----------------------------------------------------------
 
   public SqlSelect(SqlParserPos pos,
